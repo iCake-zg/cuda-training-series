@@ -93,4 +93,6 @@ Use __sychthreads() as a barrier
 ```
 
 	Use to prevent data hazards
+
+
     
